@@ -1,6 +1,7 @@
 - Persiapan
 - kirim barang ke manokwari
   * via pesawat
+  * via kapal laut
   * via jalur darat
 - prepare barang ke surabaya
 - lanjut perjalanan ke jakarta
